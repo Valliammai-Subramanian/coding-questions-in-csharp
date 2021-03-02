@@ -17,7 +17,7 @@ class Solution
             Console.Write("InputArray"+"\t");
             A.ForEach(i => Console.Write("{0}\t", i));
             Console.Write("\n");
-            Console.Write("Smallest positive integer that's not in A is" + " " + MissingInteger(A));
+            Console.Write("Smallest positive integer that's not in the input array is" + " " + MissingInteger(A));
             Console.Write("\n");
         }
         
