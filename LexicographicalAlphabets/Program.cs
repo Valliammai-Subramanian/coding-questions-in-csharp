@@ -14,9 +14,9 @@ class Program
 
         foreach(string S in strList)
         {
-            Console.WriteLine("InputString =" + "\t" + S);
+            Console.WriteLine("Input String is" + S);
             string result = solution(S);
-            Console.WriteLine("OutputString =" + "\t" + result);
+            Console.WriteLine("Output String =" + "\t" + result);
             Console.Write("\n");
         }          
     }
