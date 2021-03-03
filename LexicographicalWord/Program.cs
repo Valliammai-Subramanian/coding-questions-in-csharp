@@ -14,7 +14,7 @@ class Program
 
         foreach(string S in strList)
         {
-            Console.WriteLine("Input String is" + S);
+            Console.WriteLine("Input String is " + S);
             string result = solution(S);
             Console.WriteLine("Output String =" + "\t" + result);
             Console.Write("\n");

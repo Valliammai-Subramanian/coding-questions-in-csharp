@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalAlphabets\\LexicographicalAlphabets.csproj": {}
+    "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalWord\\LexicographicalWord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalAlphabets\\LexicographicalAlphabets.csproj": {
+    "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalWord\\LexicographicalWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalAlphabets\\LexicographicalAlphabets.csproj",
-        "projectName": "LexicographicalAlphabets",
-        "projectPath": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalAlphabets\\LexicographicalAlphabets.csproj",
+        "projectUniqueName": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalWord\\LexicographicalWord.csproj",
+        "projectName": "LexicographicalWord",
+        "projectPath": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalWord\\LexicographicalWord.csproj",
         "packagesPath": "C:\\Users\\Valliammai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalAlphabets\\obj\\",
+        "outputPath": "C:\\Users\\Valliammai\\Documents\\Projects\\coding-questions-in-csharp\\LexicographicalWord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valliammai\\AppData\\Roaming\\NuGet\\NuGet.Config"
