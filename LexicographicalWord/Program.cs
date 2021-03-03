@@ -7,10 +7,10 @@ class Program
     {
         List<string> strList = new List<string>();
 
-        strList.Add("acb");
-        strList.Add("hot");
-        strList.Add("codility");
-        strList.Add("aaaa");
+        strList.Add("azb");
+        strList.Add("bus");
+        strList.Add("possibility");
+        strList.Add("bbbbb");
 
         foreach(string S in strList)
         {
