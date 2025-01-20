@@ -103,13 +103,13 @@ More programming challenge questions in C# will be added as time permits. Let me
     Link to solution [https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/LexicographicalWord].
 
 6. <b>InterfaceMocking:</b> You and your team are working on unit tests. Your implementattion makes heavy use of the following <b>ISecretService</b> interface:
-
-    <b>public interface ISecretService
-    {
-        int GetSecretNumber(string secretOne, string secretTwo);
-        bool IsTheMeaningOfLife(int number);
-    }
-    </b>
+    ```bash
+    public interface ISecretService
+        {
+            int GetSecretNumber(string secretOne, string secretTwo);
+            bool IsTheMeaningOfLife(int number);
+        }
+    ```
 
 It contains two methods:
 + <b>GetSecretNumber</b> that acceptstwo string arguments: <b>secretOne</b> and <b>secretTwo</b>. It returns an integer value <b>S</b>, depending on the arguments.
