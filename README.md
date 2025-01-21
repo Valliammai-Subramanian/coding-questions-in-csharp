@@ -104,11 +104,11 @@ More programming challenge questions in C# will be added as time permits. Let me
 
 6. <b>SumofPrime:</b> Find the prime numbers between given range of numbers and find its sum. The code should be time efficient to handle array of size upto 10^12. To solve this, the array is recursively divided into two halves and added in separate threads.
 
-*Note: Do not use any algorithms to find the prime numbers.
+    *Note: Do not use any algorithms to find the prime numbers.
 
-Link to solution [https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/SumofPrimes].
+    Link to solution [https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/SumofPrimes].
 
-7. <b>InterfaceMocking:</b> You and your team are working on unit tests. Your implementation makes heavy use of the following <b>ISecretService</b> interface:
+7. <b>InterfaceMocking:</b> You and your team are working on unit tests. Your implementation makes heavy use of the following <b>ISecretService</b> interface as follows:
     ```bash
     public interface ISecretService
         {
